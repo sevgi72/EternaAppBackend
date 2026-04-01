@@ -1,32 +1,24 @@
 using System.Diagnostics;
+using EternaApp.Data;
 using EternaApp.Models;
+using EternaApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EternaApp.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(EternaAppDbContext context)   : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
-            return View();
-        }
+            var sliders = context.Sliders.ToList();
+            var features = context.Features.ToList();
+            var homeVm = new HomeVm
+            {
+                Sliders = sliders,
+                Features=features
+            };
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+            return View(homeVm);
+        } 
     }
 }
