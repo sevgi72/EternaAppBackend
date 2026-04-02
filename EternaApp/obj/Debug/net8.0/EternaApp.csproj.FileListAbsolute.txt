@@ -138,3 +138,4 @@ C:\Users\PC\OneDrive\Desktop\EternaApp\EternaApp\obj\Debug\net8.0\refint\EternaA
 C:\Users\PC\OneDrive\Desktop\EternaApp\EternaApp\obj\Debug\net8.0\EternaApp.pdb
 C:\Users\PC\OneDrive\Desktop\EternaApp\EternaApp\obj\Debug\net8.0\EternaApp.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Desktop\EternaApp\EternaApp\obj\Debug\net8.0\ref\EternaApp.dll
+C:\Users\PC\OneDrive\Desktop\EternaApp\EternaApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

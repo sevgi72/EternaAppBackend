@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\data\\migrations\\20260401194336_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\data\\migrations\\20260401194336_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,40 +19,16 @@
       "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\data\\eternaappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\data\\eternaappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\data\\migrations\\eternaappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\data\\migrations\\eternaappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\data\\migrations\\20260401153810_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\data\\migrations\\20260401153810_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|c:\\users\\pc\\onedrive\\desktop\\eternaapp\\eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{088FFDE1-EE3F-43D9-9C21-6C5C98A04349}|EternaApp\\EternaApp.csproj|solutionrelative:eternaapp\\eternaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,63 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20260401194336_mig_2.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\Migrations\\20260401194336_mig_2.cs",
-              "RelativeDocumentMoniker": "EternaApp\\Data\\Migrations\\20260401194336_mig_2.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\Migrations\\20260401194336_mig_2.cs",
-              "RelativeToolTip": "EternaApp\\Data\\Migrations\\20260401194336_mig_2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA4AAAAlAAAAAAAAAA==",
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "EternaApp\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Models\\Categories.cs",
+              "RelativeToolTip": "EternaApp\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T19:43:40.805Z",
+              "WhenOpened": "2026-04-02T06:57:40.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EternaAppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\Migrations\\EternaAppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "EternaApp\\Data\\Migrations\\EternaAppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\Migrations\\EternaAppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "EternaApp\\Data\\Migrations\\EternaAppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T19:37:43.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Models\\Feature.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\Feature.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Models\\Feature.cs",
               "RelativeToolTip": "EternaApp\\Models\\Feature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T19:34:44.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "EternaApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "EternaApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-01T16:06:00.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "HomeVm.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\ViewModels\\HomeVm.cs",
               "RelativeDocumentMoniker": "EternaApp\\ViewModels\\HomeVm.cs",
@@ -136,32 +82,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "EternaApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "EternaApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-01T15:42:48.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EternaApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EternaApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T15:42:36.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EternaApp\\Views\\Shared\\_Layout.cshtml",
@@ -169,38 +102,11 @@
               "RelativeToolTip": "EternaApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAIAAAAAAAAAAAAAAAMYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-01T15:40:28.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T15:40:28.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EternaAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\EternaAppDbContext.cs",
-              "RelativeDocumentMoniker": "EternaApp\\Data\\EternaAppDbContext.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\EternaAppDbContext.cs",
-              "RelativeToolTip": "EternaApp\\Data\\EternaAppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T15:18:37.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260401153810_mig_1.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\Migrations\\20260401153810_mig_1.cs",
-              "RelativeDocumentMoniker": "EternaApp\\Data\\Migrations\\20260401153810_mig_1.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Data\\Migrations\\20260401153810_mig_1.cs",
-              "RelativeToolTip": "EternaApp\\Data\\Migrations\\20260401153810_mig_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T15:38:17.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "EternaApp\\Models\\Slider.cs",
@@ -208,46 +114,19 @@
               "RelativeToolTip": "EternaApp\\Models\\Slider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T15:31:23.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T15:31:23.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "EternaApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\appsettings.Development.json",
-              "RelativeToolTip": "EternaApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-01T15:26:13.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Program.cs",
               "RelativeDocumentMoniker": "EternaApp\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\Program.cs",
               "RelativeToolTip": "EternaApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T15:23:08.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EternaApp",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\EternaApp.csproj",
-              "RelativeDocumentMoniker": "EternaApp\\EternaApp.csproj",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EternaApp\\EternaApp\\EternaApp.csproj",
-              "RelativeToolTip": "EternaApp\\EternaApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-01T15:19:12.836Z",
               "EditorCaption": ""
             }
           ]
